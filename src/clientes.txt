@@ -1,0 +1,4 @@
+Cliente1 - Rut: 1111111-1 - Nombre: Luis - Apellido: Sanhueza - Años como cliente: 4 - Categoria: INACTIVO
+Cliente2 - Rut: 17.162.856-5 - Nombre: Iron - Apellido: Manjar - Años como cliente: 1  - Categoria: ACTIVO
+Cliente3 - Rut: 10.513.821-6 - Nombre: Thor - Apellido: Tita - Años como cliente:  4 - Categoria: ACTIVO
+Cliente4 - Rut: 17.151.677-8 - Nombre: Capitan - Apellido: Marraqueta - Años como cliente:  9 - Categoria: INACTIVO
